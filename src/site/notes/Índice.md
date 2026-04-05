@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/indice/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/indice/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
 Mis primeras anotaciones Marie Appleton
+
 
 
 - Dudas
