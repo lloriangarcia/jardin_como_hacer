@@ -16,4 +16,4 @@ Por su parte, Alex Christie, a quien debemos el fabuloso [Obsidian Digital Garde
 
 
 > [!NOTE]- Cita de Alex Christie (2020) sobre «digital gardening»:  
-> «I want to stick with the term digital garden by dragging along or pulling into focus the practice of digital gardening. I want to reshape some of the issues I've outlined [above](https://www.alexchristie.dev/garden/03-rethinking-digital-gardening) by continuing to practice digital gardening. This means experimenting with low friction authoring, alternative data arrangements that lack explicit hierarchy, and presentational layers.» (Christie 2020).
+> «I want to stick with the term digital garden by dragging along or pulling into focus the practice of digital gardening. I want to reshape some of the issues I've outlined [above](https://www.alexchristie.dev/garden/03-rethinking-digital-gardening) by continuing to practice digital gardening. This means experimenting with *low friction authoring*, *alternative data arrangements* that *lack* explicit *hierarchy*, and *presentational layers*» (Christie 2020).
