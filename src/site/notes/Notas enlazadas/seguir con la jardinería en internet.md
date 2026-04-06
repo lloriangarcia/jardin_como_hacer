@@ -18,12 +18,18 @@ Por su parte, Alex Christie, a quien debemos el fabuloso [Obsidian Digital Garde
 > [!NOTE]- Cita de Alex Christie (2020) sobre «digital gardening»:  
 > «I want to stick with the term digital garden by dragging along or pulling into focus the practice of digital gardening. I want to reshape some of the issues I've outlined [above](https://www.alexchristie.dev/garden/03-rethinking-digital-gardening) by continuing to practice digital gardening. This means experimenting with *low friction authoring*, *alternative data arrangements* that lack explicit *hierarchy, and presentational layers*»[^2] (Christie 2020).
 
-En conjunto, pensar con esta suerte de lema (seguir con la jardinería digital) me ayuda a poner recordar al menos tres ideas que considero fundamentales de la ética jardinera: 
-1. La jardinería (digital o no) es un PROBLEMA. 
-	Quiere decir esto que no es un protocolo o un método ya acabado, cuya naturaleza podamos dar ya por sentada y que nada más sería necesario centrarse en «aplicar» correctamente. Como en la vida misma, la jardinaría es, ante todo, un problema –uno de los más fundamentales filosóficamente, diría– y que, como tal, no puede ser solucionado. 
-2. Q. 
+En conjunto, pensar con esta suerte de lema (seguir con la jardinería digital) me ayuda a poner en el centro al menos tres ideas que considero fundamentales para la ética jardinera que necesitamos cultivar: 
+1. La jardinería (digital o no) siempre es un PROBLEMA. 
+	Quiere decir esto que, por más necesarias que sean las guías –nos permiten leer con anticipación peligros o dinámicas comunes–, nunca el jardín es meramente el resultado de un protocolo o de un método ya acabado; un protocolo cuya validez podamos dar ya por sentada de antemano, ante de probarlo, y que nada más sería necesario centrarse en «aplicar» correctamente. Como en la vida misma, la jardinaría es, ante todo, un lugar en el que experimentamos con solucionales provisionales a problemas que, en el fondo, rara vez pueden ser totalmente solucionados. Por esta razón, el problema no es algo a «solucionar» sino algo *to stay with* [con lo que seguir, con lo que estar, a enriquecer], como nos dice Haraway. 
+2. Esta condición problemática pone a la práctica de la ESCUCHA en el centro de la jardinería digital.
+	Dado que no siempre las cosas se dan de la manera que esperamos, la praxis jardinera suele requerir, no solo que documentemos, registremos y conservemos lo que hemos *cosechado*, sino que aprendamos a prestarle atención de otro modo. En este sentido, escuchar quiere decir que **el reto de la jardinería no es disciplinar a las plantas (notas) sino ingeniárnoslas para construir el entorno más favorable para que esas ideas se puedan desplegar**[^3]. Esto quiere decir que los jardines digitales son, antes que nada, formatos *responsivos*; es decir, que responden a algo que ocurren más allá de ellos mismos, o que se conecta con algo que excede a lo plantado en un primer lugar. 
+3. INTERNET NO ES (todavía) UN JARDÍN. 
+	La diferencia entre jardinería y jardín digital que plantea Alex Christie trae la idea de que todavía no hemos llegado a convertir internet en un jardín; y que por eso, lo justo es reconocer que aun queda mucho por hacer. Esto me recuerdo a las ideas de José Esteban Muñoz en torno a la utopía queer. Para él, lo queer todavía no llego: no ha podido llegar, en un mundo tan violento; pero sí existe: como idealidad, como destilación de un pasado que conjura futuros alternativos. Que internet no sea, no pueda ser, (todavía) un jardín nos recuerda lo necesario que es que la lengua de las plantas, y de la tierra, se infiltre productivamente y transforme la infraestructura de internet. 
+	
 
 
 [^1]: Énfasis mío. 
 
 [^2]: Énfasis mío. 
+
+[^3]: Esto se relaciona con la idea de Donna Haraway, luego retomada por Vinciane Despret (2020), de que el contexto más propicio quizá para seguir con el problema es el del Phonoceno; es decir, una nueva era en la que nos volvemos capaces de escuchar la voz de la tierra. 
