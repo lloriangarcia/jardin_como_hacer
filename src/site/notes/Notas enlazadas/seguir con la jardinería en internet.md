@@ -8,7 +8,7 @@ En el caso de Haraway, «staying with the problem» fue el concepto aglutinador 
 
 
 > [!NOTE]- Haraway sobre «staying with the trouble» (2016):
-> «Staying with the trouble does not require such a relationship to times called the future. In fact, staying with the trouble requires *learning to be truly present*, not as a vanishing pivot between awful or edenic pasts and apocalyptic or salvific futures, but as mortal critters *[[Notas enlazadas/entwined in myriad unfinished configurations\|entwined in myriad unfinished configurations]] of places, times, matters, meanings*»[^1].
+> «Staying with the trouble does not require such a relationship to times called the future. In fact, staying with the trouble requires *learning to be truly present*, not as a vanishing pivot between awful or edenic pasts and apocalyptic or salvific futures, but as mortal critters [[Notas enlazadas/entwined in myriad unfinished configurations\|entwined in myriad unfinished configurations]] of places, times, matters, meanings»[^1].
 > 
 
 
