@@ -27,6 +27,8 @@ En conjunto, pensar con esta suerte de lema (seguir con la jardinería digital) 
 	La diferencia entre jardinería y jardín digital que plantea Alex Christie trae la idea de que todavía no hemos llegado a convertir internet en un jardín; y que por eso, lo justo es reconocer que aun queda mucho por hacer. Esto me recuerdo a las ideas de José Esteban Muñoz en torno a la utopía queer. Para él, lo queer todavía no llego: no ha podido llegar, en un mundo tan violento; pero sí existe: como idealidad, como destilación de un pasado que conjura futuros alternativos. Que internet no sea, no pueda ser, (todavía) un jardín nos recuerda lo necesario que es que la lengua de las plantas, y de la tierra, se infiltre productivamente y transforme la infraestructura de internet. 
 	
 
+Jardinería digital es el nombre del reto que nos enrola en una aventura inédita, la que considera internet y su lógistica, no ya como el centro de todo, sino como un dialecto más, entre otros, de una ecología vocal más amplia, la de la voz de la tierra. 
+
 
 [^1]: Énfasis mío. 
 
