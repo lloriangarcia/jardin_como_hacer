@@ -23,7 +23,6 @@ En conjunto, pensar con esta suerte de lema (seguir con la jardinería digital) 
 2. 
 
 
----------
 [^1]: Énfasis mío. 
 
 [^2]: Énfasis mío. 
