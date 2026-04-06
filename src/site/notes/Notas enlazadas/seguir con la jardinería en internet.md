@@ -9,6 +9,5 @@ En el caso de Haraway, «staying with the problem» fue el concepto aglutinador 
 Por su parte, Alex Christie, a quien debemos Obsidian Digital Garden Plugin, distingue en su texto *(re)thinking the digital garden* (2020) entre la noción de «jardín digital» y la de «jardinería digital». Si la noción de jardín sustantiviza, transmite una cierta idea de que tenemos claro lo que es un jardín digital o no, la de «jardinería» pone un énfasis mayor en el proceso, en el tipo de saberes que es proceso adquirir para recuperar el potencial de la red como un lugar para el florecimiento colectivo. 
 
 
-> [!NOTE] CITA DIGITAL GARDENING 
-> «Experimenting with low friction authoring, alternative data arrangements that lack explicit hierarchy, and presentational layers» (Christie 2020).
-
+> [!NOTE]- Cita de Alex Christie sobre DIGITAL GARDENING 
+> «I want to stick with the term digital garden by dragging along or pulling into focus the practice of digital gardening. I want to reshape some of the issues I've outlined [above](https://www.alexchristie.dev/garden/03-rethinking-digital-gardening) by continuing to practice digital gardening. This means experimenting with low friction authoring, alternative data arrangements that lack explicit hierarchy, and presentational layers.» (Christie 2020).
