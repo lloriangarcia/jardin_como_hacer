@@ -32,4 +32,4 @@ En conjunto, pensar con esta suerte de lema (seguir con la jardinería digital) 
 
 [^2]: Énfasis mío. 
 
-[^3]: Esto se relaciona con la idea de Donna Haraway, luego retomada por Vinciane Despret (2020), de que el contexto más propicio quizá para seguir con el problema es el del Phonoceno; es decir, una nueva era en la que nos volvemos capaces de escuchar la voz de la tierra. 
+[^3]: Esto se relaciona con la idea de Donna Haraway, luego retomada por Vinciane Despret (2020), de que el contexto más propicio quizá para seguir con el problema es el del Phonoceno; es decir, una nueva era emergente donde nos volvemos capaces de escuchar la voz de la tierra. 
