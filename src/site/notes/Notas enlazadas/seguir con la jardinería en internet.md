@@ -8,7 +8,7 @@ En el caso de Haraway, «staying with the problem» fue el concepto aglutinador 
 
 
 > [!NOTE]- Haraway sobre «staying with the trouble» (2016):
-> «Staying with the trouble does not require such a relationship to times called the future. In fact, staying with the trouble requires *learning to be truly present*, not as a vanishing pivot between awful or edenic pasts and apocalyptic or salvific futures, but as mortal critters [[Notas enlazadas/entwined in myriad unfinished configurations\|entwined in myriad unfinished configurations]] of places, times, matters, meanings»[^1].
+> «Staying with the trouble does not require such a relationship to times called the future. In fact, staying with the trouble requires *learning to be truly present*, not as a vanishing pivot between awful or edenic pasts and apocalyptic or salvific futures, but as mortal critters *[[Notas enlazadas/entwined in myriad unfinished configurations\|entwined in myriad unfinished configurations]]* of places, times, matters, meanings»[^1].
 > 
 
 
@@ -16,7 +16,7 @@ Por su parte, Alex Christie, a quien debemos el fabuloso [Obsidian Digital Garde
 
 
 > [!NOTE]- Cita de Alex Christie (2020) sobre «digital gardening»:  
-> «I want to stick with the term digital garden by dragging along or pulling into focus the practice of digital gardening. I want to reshape some of the issues I've outlined [above](https://www.alexchristie.dev/garden/03-rethinking-digital-gardening) by continuing to practice digital gardening. This means experimenting with *low friction authoring*, *alternative data arrangements* that lack explicit *hierarchy, and *presentational layers*»[^2] (Christie 2020).
+> «I want to stick with the term digital garden by dragging along or pulling into focus the practice of digital gardening. I want to reshape some of the issues I've outlined [above](https://www.alexchristie.dev/garden/03-rethinking-digital-gardening) by continuing to practice digital gardening. This means experimenting with *low friction authoring*, *alternative data arrangements* that lack explicit *hierarchy, and presentational layers*»[^2] (Christie 2020).
 
 En conjunto, 
 
