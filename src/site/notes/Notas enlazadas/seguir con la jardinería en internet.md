@@ -19,7 +19,7 @@ Por su parte, Alex Christie, a quien debemos el fabuloso [Obsidian Digital Garde
 > «I want to stick with the term digital garden by dragging along or pulling into focus the practice of digital gardening. I want to reshape some of the issues I've outlined [above](https://www.alexchristie.dev/garden/03-rethinking-digital-gardening) by continuing to practice digital gardening. This means experimenting with *low friction authoring*, *alternative data arrangements* that lack explicit *hierarchy, and presentational layers*»[^2] (Christie 2020).
 
 En conjunto, pensar con esta suerte de lema (seguir con la jardinería digital) me ayuda a poner recordar al menos tres ideas que considero fundamentales de la ética jardinera: 
-1. La jardinería no es un protocolo o un método ya acabaco, que podamos dar por sentado, y que nada más sería necesario centrarse en «aplicar» correctamente. Como en la vida misma, la jardinaría –digital o no– es ante todo un problema que se entralaza con la vida. 
+1. La **jardinería** (digital) es un problema. no es un protocolo o un método ya acabaco, que podamos dar por sentado, y que nada más sería necesario centrarse en «aplicar» correctamente. Como en la vida misma, la jardinaría –digital o no– es ante todo un problema que se entralaza con la vida. 
 2. 
 
 
